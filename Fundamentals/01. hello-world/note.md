@@ -1,0 +1,2 @@
+- **printf** is not a part of C; there is no output or input defined in C itself.
+  - printf is just a useful standard library function that are normally accessible to C programs.

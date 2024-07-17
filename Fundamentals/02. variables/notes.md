@@ -10,3 +10,7 @@
   - short   **(short integers)**
   - long    **(long integers)**
   - double  **(double precision floating point)**
+- **printf**("%**3d**\t%**6d**", fahr, celsius)
+  - Above printf specifies fahr to be 3 digits wide and celsius to be 6 digits wide.
+- **SYMBOLIC CONSTANTS**
+  - The quantities **LOWER**, **UPPER** and **STEP** are symbolic constants inside **(main_symbolic_constants.c)** file, are **not variables**, so they do not appear in declarations.
